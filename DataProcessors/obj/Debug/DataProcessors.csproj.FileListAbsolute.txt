@@ -1,0 +1,5 @@
+N:\Dropbox\Development\Projects\DataProcessors\DataProcessors\bin\Debug\DataProcessors.exe.config
+N:\Dropbox\Development\Projects\DataProcessors\DataProcessors\bin\Debug\DataProcessors.exe
+N:\Dropbox\Development\Projects\DataProcessors\DataProcessors\bin\Debug\DataProcessors.pdb
+N:\Dropbox\Development\Projects\DataProcessors\DataProcessors\obj\Debug\DataProcessors.exe
+N:\Dropbox\Development\Projects\DataProcessors\DataProcessors\obj\Debug\DataProcessors.pdb
