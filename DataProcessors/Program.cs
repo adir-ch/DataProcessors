@@ -12,6 +12,7 @@ namespace DataProcessors
         {
             WebFormSubmitter submitter = new WebFormSubmitter();
             submitter.GetJobForm();
+            Console.ReadKey();
         }
     }
 }
