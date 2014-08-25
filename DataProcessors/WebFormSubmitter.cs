@@ -56,7 +56,7 @@ namespace DataProcessors
             return ((Int32)(loDataTable.Rows[0]["Eval"])).ToString();
         }
 
-        public void GetJobForm()
+        public void SubmitJobForm()
         {
             Uri address = new Uri("http://apply.dataprocessors.com.au/");
             CookieContainer cookieContainer = new CookieContainer();

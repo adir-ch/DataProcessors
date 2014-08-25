@@ -11,7 +11,7 @@ namespace DataProcessors
         static void Main(string[] args)
         {
             WebFormSubmitter submitter = new WebFormSubmitter();
-            submitter.GetJobForm();
+            submitter.SubmitJobForm();
             Console.ReadKey();
         }
     }
